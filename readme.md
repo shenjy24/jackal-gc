@@ -7,3 +7,4 @@
 - [参数配置](https://github.com/shenjy24/jackal-gc/wiki/%E3%80%90G1%E3%80%91%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE) 
 - [性能调优（翻译自官方文档）](https://github.com/shenjy24/jackal-gc/wiki/%E3%80%90G1%E3%80%91%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98)
 - [记忆集和卡表解决跨代引用](https://github.com/shenjy24/jackal-gc/wiki/%E3%80%90G1%E3%80%91%E8%AE%B0%E5%BF%86%E9%9B%86%E5%92%8C%E5%8D%A1%E8%A1%A8%E8%A7%A3%E5%86%B3%E8%B7%A8%E4%BB%A3%E5%BC%95%E7%94%A8)
+- [三色标记与STAB](https://github.com/shenjy24/jackal-gc/wiki/%E3%80%90G1%E3%80%91%E4%B8%89%E8%89%B2%E6%A0%87%E8%AE%B0%E4%B8%8ESTAB)
